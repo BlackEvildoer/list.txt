@@ -1,8 +1,6 @@
 aga gyan 21 MANG
 1-1-2-9-5-u-0-_-a-1-2-9-5
 
-YSHEX 1 MANG
-1-0-1-6-7-u-0-_-a-1-6-7
 
 HAMA GYAN 21 MANG
 1-0-1-5-6-u-0-_-a-1-5-6
@@ -12,3 +10,6 @@ ALXOM
 
 HALO KARKE 22 MANG
 1-0-5-1-1-u-0-_-a-5-1-1
+
+KAK SHEX
+1-0-2-9-2-u-0-_-a-2-9-2
